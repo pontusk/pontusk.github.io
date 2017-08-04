@@ -1,0 +1,26 @@
+.header-row {
+    height: 48px;
+}
+.header-img {
+    background-image: url('../img/illustrius_logo_gray.svg');
+    height: 48px;
+    background-repeat: no-repeat;
+    background-position-y: 20px;
+    background-position-x: 15px;
+}
+.header-image .no-svg {
+    background-image: url('../img/illustrius_logo_gray.svg');
+}
+.page-missin { 
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+    text-align: center;
+    display: none;
+    position: relative;
+    bottom: 48px;
+}
+
+.fullheight {
+    height: 100%;
+}
